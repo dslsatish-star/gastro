@@ -1,0 +1,7 @@
+{
+  "name": "Sri Gayathri Astrology",
+  "description": "Sri Gayathri Astrology by Sri Krishna Jyotish offers professional Vedic astrology consultations across Andhra Pradesh and Telangana for marriage, career, business, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

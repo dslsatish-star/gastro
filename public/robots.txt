@@ -1,0 +1,29 @@
+# Robots.txt for Sri Gayathri Astrology
+User-agent: *
+Allow: /
+Allow: /about
+Allow: /astrology-consultation
+Allow: /services/
+Allow: /guides/
+Allow: /astrology-guide/
+Allow: /locations/
+Allow: /contact
+Allow: /faq
+Allow: /privacy-policy
+Allow: /terms
+Allow: /disclaimer
+
+# Multilingual directories
+Allow: /te/
+Allow: /hi/
+
+# Disallow private assets and query parameters
+Disallow: /*?*
+
+# Sitemaps
+Sitemap: https://srigayathriastrology.com/sitemap.xml
+Sitemap: https://srigayathriastrology.com/sitemap-pages.xml
+Sitemap: https://srigayathriastrology.com/sitemap-services.xml
+Sitemap: https://srigayathriastrology.com/sitemap-guides.xml
+Sitemap: https://srigayathriastrology.com/sitemap-locations-ap.xml
+Sitemap: https://srigayathriastrology.com/sitemap-locations-ts.xml
